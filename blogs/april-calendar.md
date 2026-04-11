@@ -21,7 +21,7 @@
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-los-alamitos | what happens after an arrest in Los Alamitos | Bail Process | ✅ published |
-| 2026-04-09 | Thu | how-bail-bonds-work-los-alamitos | how do bail bonds work in Los Alamitos | Bail Bonds 101 | ⬜ |
+| 2026-04-09 | Thu | how-bail-bonds-work-los-alamitos | how do bail bonds work in Los Alamitos | Bail Bonds 101 | ✅ published |
 | 2026-04-10 | Fri | how-much-is-bail-los-alamitos | how much is bail in Orange County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-los-alamitos | how to get someone out of jail in Los Alamitos | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-los-alamitos | domestic violence bail bonds Los Alamitos | DV Bail | ⬜ |
