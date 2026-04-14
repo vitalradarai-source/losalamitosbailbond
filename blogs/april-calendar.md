@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-los-alamitos | what happens after an arrest in Los Alamitos | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-los-alamitos | how do bail bonds work in Los Alamitos | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-los-alamitos | how much is bail in Orange County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-los-alamitos | how much is bail in Orange County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-los-alamitos | how to get someone out of jail in Los Alamitos | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-los-alamitos | domestic violence bail bonds Los Alamitos | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-los-alamitos | DUI bail bonds Los Alamitos | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-los-alamitos | felony bail bonds Los Alamitos | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-los-alamitos-bail-bonds | los alamitos bail bonds | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-los-alamitos | drug possession bail Los Alamitos | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-los-alamitos | can you bail someone out at night in Los Alamitos | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-los-alamitos | how long does it take to bail someone out of LBPD | Timeline | ⬜ |
