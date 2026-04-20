@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-los-alamitos | how much does a bail bondsman charge in Los Alamitos | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-los-alamitos | bail bond payment plan Los Alamitos | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-los-alamitos | jail booking process at LBPD | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-los-alamitos | how to find someone in jail Los Alamitos | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-los-alamitos | what to expect at arraignment West Justice Center | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-los-alamitos | bail hearing process in Orange County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-los-alamitos | warrant bail bonds Los Alamitos | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-los-alamitos | what happens if you miss court date Los Alamitos | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-los-alamitos | assault and battery bail bonds Los Alamitos | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-los-alamitos | theft and burglary bail bonds Los Alamitos | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-los-alamitos | how to choose a bail bondsman in Los Alamitos | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-los-alamitos | what does a bail bond cosigner do Los Alamitos | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-los-alamitos | bail conditions and restrictions Orange County | Conditions | ⬜ |
+| 2026-04-21 | Tue | warrant-bail-bonds-los-alamitos | warrant bail bonds Los Alamitos | Warrants | ⬜ |
+| 2026-04-22 | Wed | what-happens-miss-court-los-alamitos | what happens if you miss court date Los Alamitos | FTA | ⬜ |
+| 2026-04-23 | Thu | assault-bail-bonds-los-alamitos | assault and battery bail bonds Los Alamitos | Assault | ⬜ |
+| 2026-04-24 | Fri | theft-bail-bonds-los-alamitos | theft and burglary bail bonds Los Alamitos | Theft | ⬜ |
+| 2026-04-25 | Sat | choosing-bail-bondsman-los-alamitos | how to choose a bail bondsman in Los Alamitos | How to Choose | ⬜ |
+| 2026-04-26 | Sun | bail-bond-cosigner-los-alamitos | what does a bail bond cosigner do Los Alamitos | Cosigner | ⬜ |
+| 2026-04-27 | Mon | bail-bond-conditions-los-alamitos | bail conditions and restrictions in Orange | Conditions | ⬜ |
+| 2026-04-28 | Tue | first-offense-bail-los-alamitos | first offense bail bonds Los Alamitos | First Offense | ⬜ |
+| 2026-04-29 | Wed | felony-vs-misdemeanor-bail-los-alamitos | felony vs misdemeanor bail Los Alamitos | Charge Types | ⬜ |
+| 2026-04-30 | Thu | weapon-charges-bail-los-alamitos | weapon charges bail bonds Los Alamitos | Weapon Charges | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
