@@ -41,7 +41,7 @@
 | 2026-04-26 | Sun | bail-bond-cosigner-los-alamitos | what does a bail bond cosigner do Los Alamitos | Cosigner | ⬜ |
 | 2026-04-27 | Mon | bail-bond-conditions-los-alamitos | bail conditions and restrictions in Orange | Conditions | ⬜ |
 | 2026-04-28 | Tue | first-offense-bail-los-alamitos | first offense bail bonds Los Alamitos | First Offense | ⬜ |
-| 2026-04-29 | Wed | felony-vs-misdemeanor-bail-los-alamitos | felony vs misdemeanor bail Los Alamitos | Charge Types | ⬜ |
+| 2026-04-29 | Wed | felony-vs-misdemeanor-bail-los-alamitos | felony vs misdemeanor bail Los Alamitos | Charge Types | ✅ published |
 | 2026-04-30 | Thu | weapon-charges-bail-los-alamitos | weapon charges bail bonds Los Alamitos | Weapon Charges | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
